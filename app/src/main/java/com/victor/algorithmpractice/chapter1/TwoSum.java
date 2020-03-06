@@ -13,6 +13,11 @@ import java.util.HashMap;
  */
 public class TwoSum {
 
+    /**
+     * 暴力法
+     * 时间复杂度 O(n2)
+     * 空间复杂度 O(1)
+     */
     public int[] twoSum1(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; i++) {
