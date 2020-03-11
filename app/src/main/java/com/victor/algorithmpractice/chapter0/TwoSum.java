@@ -1,4 +1,4 @@
-package com.victor.algorithmpractice.chapter1;
+package com.victor.algorithmpractice.chapter0;
 
 import android.annotation.SuppressLint;
 
@@ -8,7 +8,10 @@ import java.util.HashMap;
  * @author victor
  * @Description Given an array of integers, return indices of the two numbers such that they add up to a specific target.
  * <p>
- * You may assume that each input would have exactly one solution, and you may not use the same element twice.*
+ * You may assume that each input would have exactly one solution, and you may not use the same element twice.
+ *
+ * No.2
+ *
  * @since 2020-03-06
  */
 public class TwoSum {
